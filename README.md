@@ -18,8 +18,7 @@ This project uses the **Superstore dataset** from Kaggle to explore and visualiz
 - Identify **top-performing categories** and **products**.
 - Understand how **discounts affect profitability**.
 - Visualize **regional performance** (state-wise and region-wise).
-- Create **interactive dashboards** using Power BI / Tableau / Python (your tool).
-
+- Create **interactive dashboards** using Power BI .
 ---
 
 ## Tools Used
